@@ -1,0 +1,26 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{table_epi}
+\author{juliapapa }
+
+\begin{document}
+\begin{tabular}{||c|c||}
+\hline
+Variável & Significado \\ [0.5 ex]
+\hline \hline
+Y & FDI inflow como Proporção do PIB \\
+\hline
+X1 & Controle de Corrupção \\
+\hline 
+X2 & População \\
+\hline
+X3 & Emprego no Setor Industrial \\
+\hline
+X4 & Emprego no Setor de Serviços \\
+\hline
+
+    
+\end{tabular}
+
+\end{document}
